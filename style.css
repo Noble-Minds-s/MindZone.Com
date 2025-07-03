@@ -1,0 +1,67 @@
+.header{display: flex;justify-content: space-between;
+    padding: 5px;
+    border-radius: 8px;
+    background-color: #003366;}
+
+footer{text-align: center;
+     color: white;
+     line-height: 1px;
+     background-color: #003366;
+     font-size: smaller ;
+     padding: 10px;}    
+
+p{font-family: "poppins",sans-serif;}
+
+h4{padding: 0px;
+    color: rgb(224, 166, 89);
+    font-weight: bold;
+    background-color: #003366;}
+
+h6{font-size: 14px;text-align: center;font-weight: 700;
+    margin-bottom: 0px;
+    margin-top: 5px;font-family: "poppins",sans-serif;
+    text-transform: uppercase;}
+
+h5{line-height: 0px;text-align:center }
+
+.logo{width: 60px;height: 60px;}
+
+body{margin: 5px;background-color:#f2f6f8 ;
+    padding: 0px;}
+
+.nav{display: flex;margin: 5px;text-wrap: wrap;
+    justify-content: space-between;}
+
+.a{text-decoration: none;
+    color: darkred;
+    border-radius: 5px;
+    padding: 5px;}
+.a:hover{background-color: #003366;}
+
+.b{color: darkred;text-decoration: none;
+    border-radius: 5px;
+    padding: 5px;}
+.b:hover{background-color:  rgb(224, 166, 89);}
+
+hr{margin-left: 10px;margin-right: 10px;}
+
+.article{background: #ffffff;margin-bottom: 10px;text-align: justify;
+    padding: 2px;padding-bottom: 10px;}
+
+.img{width: 100%;margin-left: auto;margin-right: auto;
+    max-width: 500px;
+    display: block;}
+
+.date{text-align: center;font-weight: 500;
+
+     color: black;
+    font-size: 10px;font-family:"comic Sans MS",cursive;}
+
+.vidio{ width:100%;
+    height: auto
+    ;margin-top: 10px;
+    max-width: 100%;}
+
+
+
+.txt area{}
