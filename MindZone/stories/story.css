@@ -1,0 +1,35 @@
+
+footer{text-align: center;
+     color: white;
+     line-height: 1px;
+     background-color: #003366;
+     font-size: smaller ;
+     padding: 10px;}    
+
+h6{font-size: 16px;
+    text-align: center;
+    font-weight: bolder;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    text-transform: uppercase;}
+
+    
+    
+body{margin: 3px;
+    background-color:#f2f6f8 ;
+    word-spacing: 1px;}
+
+.article{background: #ffffff;
+    margin-bottom: 30px;
+    text-align: justify;
+    padding: 2px;padding-bottom: 10px;}
+
+.img{width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    display: block;}
+
+.date{text-align: center;font-weight: 500;
+     color: black;
+    font-size: 12px;'Courier New', Courier, monospace;}
