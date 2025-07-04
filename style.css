@@ -1,4 +1,4 @@
-.header{display: flex;justify-content: space-between;
+.header{text-align: center;
     padding: 5px;
     border-radius: 8px;
     background-color: #003366;}
@@ -19,7 +19,7 @@ h6{font-size: 16px;
     text-align: center;
     font-weight: bolder;
     margin-bottom: 0px;
-    margin-top: 5px;
+    margin-top: 3px;
     text-transform: uppercase;}
 
 h5{line-height: 0px;text-align:center }
@@ -46,9 +46,10 @@ body{margin: 3px;background-color:#f2f6f8 ;word-spacing: 1px;
 hr{margin-left: 10px;margin-right: 10px;}
 
 .article{background: #ffffff;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     text-align: justify;
-    padding: 2px;padding-bottom: 10px;}
+    padding: 2px;
+    padding-bottom: 10px;}
 
 .img{width: 100%;
     margin-left: auto;
@@ -57,8 +58,9 @@ hr{margin-left: 10px;margin-right: 10px;}
     display: block;}
 
 .date{text-align: center;font-weight: 500;
+     margin-top: 3px;
      color: black;
-    font-size: 12px;'Courier New', Courier, monospace;}
+     font-size: 11px;'Courier New', Courier, monospace;}
 
 .vidio{ width:100%;
     height: auto
@@ -67,3 +69,79 @@ hr{margin-left: 10px;margin-right: 10px;}
 
 a{text-decoration: none;
     color:black;}
+
+.recent{display: flex;
+    font-weight: bold;
+    gap: 5px;
+    padding: 10px;
+    background: #ffffff;
+    margin-bottom: 20px;}
+    
+.icon{font-size: 16;
+    margin-left: 3px;
+    margin-bottom: 5px;}
+
+span{color: red;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;}
+
+    
+#img{padding: 10px;
+    width: 100px;
+    height: 100x;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.comment{background: #ffffff;
+    padding: 2px;
+    text-align: center;
+    border-radius: 0px 80px 0px 80px;
+    margin-bottom: 20px;}
